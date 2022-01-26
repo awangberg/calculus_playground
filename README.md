@@ -1,6 +1,14 @@
 # calculus_playground
 messing around with colab activities for calculus
 
+Possible Projects:
+
+1) Estimating Justin Jefferson's Position using a video on Youtube
+
+2) Plotting the position and velocity of a ball dropped in the WSU Atrium
+
+3) Finding the relationship between df and dt for various functions  [ This uses a limiting process by shrinking dt ]
+
 
 
 Desmos Notes
