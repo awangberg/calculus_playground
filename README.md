@@ -10,6 +10,10 @@ Possible Projects:
 3) Finding the relationship between df and dt for various functions  [ This uses a limiting process by shrinking dt ]
 
 
+Github and Colab Notes
+---------------------------------
+Directions for having students sign up for Github and Colab
+
 
 Desmos Notes
 -----------------------------
