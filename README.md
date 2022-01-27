@@ -7,7 +7,7 @@ Possible Projects:
 
 2) Plotting the position and velocity of a ball dropped in the WSU Atrium
 
-3) Finding the relationship between df and dt for various functions  [ This uses a limiting process by shrinking dt ]
+3) Finding the relationship between dA, s, and ds for the area of a square. This is extended for volume, a higher-dimensional volume s^7, and a square root function s^{0.5}.  [ This uses a limiting process by shrinking dt ]
 
 
 Github and Colab Notes
