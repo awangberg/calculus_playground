@@ -9,6 +9,8 @@ Possible Projects:
 
 3) Finding the relationship between dA, s, and ds for the area of a square. This is extended for volume, a higher-dimensional volume s^7, and a square root function s^{0.5}.  [ This uses a limiting process by shrinking dt ]
 
+4) Finding relationships between dQ, t, and dt for exponential, logarithm, sine and cosine functions.
+
 
 Github and Colab Notes
 ---------------------------------
