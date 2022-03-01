@@ -60,3 +60,9 @@ Note: If you haven’t shared the file, you’re prompted to share it now.
 
 When the recipient clicks the link in the message, they’re instructed to click Make a copy.
 They can then work on a copy of the original document.
+
+
+Approximation using derivatives
+-----------------------------------
+
+https://github.com/awangberg/calculus_playground/blob/main/Linear_and_higher_order_approximation.ipynb
